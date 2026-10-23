@@ -53,7 +53,7 @@ The system combines text preprocessing, a trained Machine Learning model, a Flas
 Clone your repository and navigate to the project folder:
 
 ```bash
-git clone SaniaSalahuddin/python-ai-engineering-journey
+git clone https://github.com/SaniaSalahuddin/python-ai-engineering-journey.git
 cd python-ai-engineering-journey/03\ Machine-Learning/Projects/Movie-Review-Classification
 ```
 
